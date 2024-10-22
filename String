@@ -1,6 +1,6 @@
 void main() {
   String firstName = 'januar';
-  String lastName = 'januar';
+  String lastName = 'saputra';
 
   print('Nama lengkap: $firstName $lastName');
 }
