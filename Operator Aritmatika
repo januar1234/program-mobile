@@ -4,21 +4,21 @@ void main() {
 
   // Penjumlahan
   int sum = a + b;
-  print('Hasil penjumlahan Ferdi: $a + $b = $sum');
+  print('Hasil penjumlahan januar: $a + $b = $sum');
 
   // Pengurangan
   int difference = a - b;
-  print('Hasil pengurangan Ferdi: $a - $b = $difference');
+  print('Hasil pengurangan januar: $a - $b = $difference');
 
   // Perkalian
   int product = a * b;
-  print('Hasil perkalian Ferdi: $a * $b = $product');
+  print('Hasil perkalian januar: $a * $b = $product');
 
   // Pembagian
   double quotient = a / b; // Pembagian menghasilkan double
-  print('Hasil pembagian Ferdi: $a / $b = $quotient');
+  print('Hasil pembagian januar: $a / $b = $quotient');
 
   // Sisa bagi (modulus)
   int remainder = a % b;
-  print('Sisa bagi Ferdi: $a % $b = $remainder');
+  print('Sisa bagi januar: $a % $b = $remainder');
 }
