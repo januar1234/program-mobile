@@ -1,6 +1,6 @@
 void main() {
   // Daftar nama yang hanya berisi nama FERDI REO
-  List<String> names = ['FERDI REO'];
+  List<String> names = ['JANUAR'];
 
   // Menggunakan fungsi anonim untuk memfilter nama yang mengandung "FERDI"
   var filteredNames = names.where((name) => name.contains('FERDI')).toList();
