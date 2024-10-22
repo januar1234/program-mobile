@@ -6,7 +6,7 @@ void greet({String firstName = '', String lastName = ''}) {
 
 void main() {
   // Memanggil fungsi greet dengan parameter bernama
-  greet(firstName: 'Ferdi', lastName: 'Reo'); // Menyediakan nama depan dan nama belakang
-  greet(lastName: 'Tanuwidjaya'); // Hanya menyediakan nama belakang
+  greet(firstName: 'januar', lastName: 'januar'); // Menyediakan nama depan dan nama belakang
+  greet(lastName: 'saputra'); // Hanya menyediakan nama belakang
   greet(); // Memanggil fungsi tanpa argumen
 }
