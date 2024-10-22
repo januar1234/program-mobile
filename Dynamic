@@ -2,9 +2,9 @@ void main() {
   dynamic januarData = 30;  // Memulai dengan nilai integer
   print('Nilai awal januar: $januarData, tipe: ${januarData.runtimeType}');
 
-  ferdiData = "Halo, saya januar!";  // Mengubah menjadi string
+  januarData = "Halo, saya januar!";  // Mengubah menjadi string
   print('Pesan baru januar: $januarData, tipe: ${januarData.runtimeType}');
 
-  ferdiData = [1, 2, 3, "empat"];  // Mengubah menjadi list
+  januarData = [1, 2, 3, "empat"];  // Mengubah menjadi list
   print('List baru januar: $januarData, tipe: ${januarData.runtimeType}');
 }
