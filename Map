@@ -13,7 +13,7 @@ void main() {
   var name = <String, String>{};
   name['first'] = 'januar';
   name['middle'] = 'januar';
-  name['last'] = 'Tanuwidjaya';
+  name['last'] = 'saputra';
 
   // Menampilkan nama depan
   print('Nama depan: ${name['first']}');
