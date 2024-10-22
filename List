@@ -17,5 +17,5 @@ void main() {
   print('Buku pertama januar: ' + januar[0]);
 
   // Menampilkan jumlah buku
-  print('Jumlah buku Ferdi: ' + januarBooks.length.toString());
+  print('Jumlah buku januar: ' + januarBooks.length.toString());
 }
