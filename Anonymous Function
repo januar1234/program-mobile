@@ -1,13 +1,13 @@
 void main() {
-  // Daftar nama yang hanya berisi nama FERDI REO
-  List<String> names = ['JANUAR'];
+  // Daftar nama yang hanya berisi nama januar
+  List<String> names = ['januar'];
 
-  // Menggunakan fungsi anonim untuk memfilter nama yang mengandung "FERDI"
-  var filteredNames = names.where((name) => name.contains('FERDI')).toList();
+  // Menggunakan fungsi anonim untuk memfilter nama yang mengandung "januar"
+  var filteredNames = names.where((name) => name.contains('januar')).toList();
 
-  print('Nama yang mengandung "FERDI":');
+  print('Nama yang mengandung "januar":');
   filteredNames.forEach((name) {
-    print(name); // Menampilkan nama yang mengandung "FERDI"
+    print(name); // Menampilkan nama yang mengandung "januar"
   });
 
   // Menggunakan fungsi anonim untuk mengubah nama menjadi huruf kecil
