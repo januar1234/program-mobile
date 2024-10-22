@@ -5,7 +5,7 @@ void main() {
 
   // Menggunakan simbol dalam peta
   Map<Symbol, String> januarInfo = {
-    nameSymbol: 'januar Tanuwidjaya',
+    nameSymbol: 'januar saputra',
     ageSymbol: '21 tahun',
   };
 
